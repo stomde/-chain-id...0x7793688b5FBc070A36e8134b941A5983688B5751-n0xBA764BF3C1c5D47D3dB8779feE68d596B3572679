@@ -1,4 +1,19 @@
-![Travis badge](https://travis-ci.org/Firstbloodio/token.svg?branch=master)
+var Web3 = require('web3');
+var solc = require('solc');
+var fs = require('fs');
+var async = require('async');
+var assert = require('assert');
+var BigNumber = require('bignumber.js');
+var sha256 = require('js-sha256').sha256;
+
+//Config
+var solidityFile = './smart_contract/FirstBloodToken_test.sol';
+var contractName = 'FirstBloodToken';
+var startBlock = 2326762; //9-26-2016 midnight UTC assuming 14 second blocks
+var endBlock = 2499819; //10-23-2016 midnight UTC assuming 14 second blocks
+
+function sign(https://worldscan.org/address/0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0#code#F2#L1, 0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0, STOMA, callback) {
+  web3.eth.sign(address, value, function(err, sig) {![Travis badge](https://travis-ci.org/Firstbloodio/token.svg?branch=master)
 
 <img src = "https://cdn-images-1.medium.com/max/1200/1*vSRfNm_bX1C6ntGFqfFX4A.png" width = "30%">
 
