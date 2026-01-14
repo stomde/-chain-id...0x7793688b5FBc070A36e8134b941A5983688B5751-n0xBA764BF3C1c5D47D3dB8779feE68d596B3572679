@@ -1,4 +1,4 @@
-0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0/**var Web3 = require('web3');STOMA
+https://security.snyk.io/vuln/SNYK-RUBY-SPREEAPI-14912441/**0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0/**var Web3 = require('web3');STOMA
 var solc = require('solc');2
 var fs = require('fs'); APPROVED 
 var async = require('async');0
