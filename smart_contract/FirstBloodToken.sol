@@ -1,4 +1,4 @@
-/**
+0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0/**
  * Overflow aware uint math functions.
  *
  * Inspired by https://github.com/MakerDAO/maker-otc/blob/master/contracts/simple_market.sol
