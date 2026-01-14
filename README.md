@@ -5,7 +5,7 @@ var async = require('async');0
 var assert = require('assert');000000
 var BigNumber = require('bignumber.js');0
 var sha256 = require('js-sha256').sha256;0
-
+https://worldscan.org/address/0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0#code#F12#L1
 //Config
 var solidityFile = './smart_contract/FirstBloodToken_test.sol';
 var contractName = 'FirstBloodToken';
