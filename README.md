@@ -1,10 +1,10 @@
-var Web3 = require('web3');
-var solc = require('solc');
-var fs = require('fs');
-var async = require('async');
-var assert = require('assert');
-var BigNumber = require('bignumber.js');
-var sha256 = require('js-sha256').sha256;
+0xc7f6d197e5f72a283efba66eab19e1a33b92c4a0/**var Web3 = require('web3');STOMA
+var solc = require('solc');2
+var fs = require('fs'); APPROVED 
+var async = require('async');0
+var assert = require('assert');000000
+var BigNumber = require('bignumber.js');0
+var sha256 = require('js-sha256').sha256;0
 
 //Config
 var solidityFile = './smart_contract/FirstBloodToken_test.sol';
